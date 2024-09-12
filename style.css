@@ -1,33 +1,14 @@
-body{
-    text-align: center;
-    background-color:blue
+.center{
+   text-align: center;
+   /* color: aquamarine; */
 }
-h1{background-color:aquamarine;
-   color:black;
-   font-size: 30px;
-}
-h2{background-color:blueviolet;
-   color:brown;
-   text-align: right
-}
-h3{background-color: cornsilk;
-   color: darkred;
-}
-h4{background-color:greenyellow;
-   color:lightcoral
-}
-h5{background-color:green;
-   color:slategrey
-}
-h6{background-color:green;
-    color:black
-} 
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6{
-        font-size: 40px;
-    }
+/* .center-color{
+   text-align: center;
+   color: rgb(126, 126, 7)
+} */
+ .blue{
+   color: blue;
+ }
+ .yellow{
+   color: rgb(95, 95, 0)
+ }
