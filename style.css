@@ -1,3 +1,7 @@
+body{
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 300;
+}
 .center{
    text-align: center;
    /* color: aquamarine; */
@@ -6,9 +10,12 @@
    text-align: center;
    color: rgb(126, 126, 7)
 } */
- .blue{
-   color: blue;
+ .blue,a{
+   color: #0691d7;
  }
  .yellow{
-   color: rgb(95, 95, 0)
+   color: #ffa400
+ }
+ .left{
+  text-align: left;
  }
